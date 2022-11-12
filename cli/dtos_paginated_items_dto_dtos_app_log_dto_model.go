@@ -11,7 +11,7 @@ import (
 	"github.com/go-openapi/swag"
 
 	"github.com/spf13/cobra"
-	"github.com/sadov/rolctl/main/models"
+	"github.com/sadov/rolctl/models"
 )
 
 // Schema cli for DtosPaginatedItemsDtoDtosAppLogDto
